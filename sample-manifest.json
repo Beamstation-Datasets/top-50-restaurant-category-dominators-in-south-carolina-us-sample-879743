@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5f2d40cf-cc2b-411f-9626-bfc7f9938ad4",
+  "export_job_id": "799f227b-f33a-44a3-9a6a-bf177f4d6a55",
   "id_short": 879743,
-  "published_at": "2026-04-18T19:59:56Z",
+  "published_at": "2026-04-23T07:14:20Z",
   "repo_name": "top-50-restaurant-category-dominators-in-south-carolina-us-sample-879743",
   "sample_asset_name": "beamstation_879743_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/879743/beamstation_879743_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "44a1e3d36baf94f5b8cdbd6739b0addd52c730e430aba31d622fe1ca276167ea",
-  "sample_size_bytes": 33501,
-  "total_records": 49
+  "sample_records": 7,
+  "sample_sha256": "a09ccab83e5672b7e37108c5873879ff50fffa652228e3498169c2529dcea2fb",
+  "sample_size_bytes": 45764,
+  "total_records": 72
 }
