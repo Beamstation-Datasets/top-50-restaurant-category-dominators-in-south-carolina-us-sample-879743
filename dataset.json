@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in South Carolina, US",
-  "export_job_id": "799f227b-f33a-44a3-9a6a-bf177f4d6a55",
+  "export_job_id": "0eb8aa98-58f8-487b-bf3c-957354b5cc8d",
   "github_org": "Beamstation-Datasets",
   "id_short": 879743,
   "location_name": "South Carolina",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-south-carolina-us-sample-879743",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/879743/beamstation_879743_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_pct": 9.72,
+  "sample_pct": 9.59,
   "sample_records": 7,
-  "sample_sha256": "a09ccab83e5672b7e37108c5873879ff50fffa652228e3498169c2529dcea2fb",
-  "sample_size_bytes": 45764,
-  "total_records": 72,
-  "updated_at": "2026-04-22T07:02:53.964877+00:00"
+  "sample_sha256": "c2fa7398b15323cbc6323af036cfc06ca537a408cd39212b7624ef5a5a49d88a",
+  "sample_size_bytes": 44461,
+  "total_records": 73,
+  "updated_at": "2026-04-29T08:58:21.050914+00:00"
 }
