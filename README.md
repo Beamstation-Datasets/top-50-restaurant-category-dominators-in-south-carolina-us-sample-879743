@@ -9,9 +9,9 @@
 | Dataset ID | `879743` |
 | Location | South Carolina |
 | Category | Restaurants |
-| Full dataset size | 72 records |
-| Free sample size | 7 records (9.72%) |
-| Last export | 2026-04-22T07:02:53.964877+00:00 |
+| Full dataset size | 73 records |
+| Free sample size | 7 records (9.59%) |
+| Last export | 2026-04-29T08:58:21.050914+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-south-carolina-us-sample-879743/releases/download/sample-latest/beamstation_879743_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
